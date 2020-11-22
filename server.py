@@ -9,5 +9,5 @@ def hello_world():
 def about_fun():
     return 'about prashant'
 
-
+if __name__ == '__main__':
 app.run(debug=True)
